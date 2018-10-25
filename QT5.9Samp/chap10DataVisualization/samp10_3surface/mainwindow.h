@@ -7,7 +7,7 @@
 
 using namespace QtDataVisualization;
 
-
+//
 namespace Ui {
 class MainWindow;
 }
